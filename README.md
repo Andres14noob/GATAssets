@@ -1,4 +1,4 @@
-# Grow a tree Assets
+# 🌲 Grow a tree Assets
 
 This is just for the game assets, nothing else
 
